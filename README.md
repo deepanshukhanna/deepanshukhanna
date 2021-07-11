@@ -1,4 +1,5 @@
-[`Hi there 👋 Myself Deepanshu Khanna !`](https://github.com/deepanshukhanna/) 
+### Hi there 👋 Myself Deepanshu Khanna !
+
 ---
 <a href="http://www.github.com/deepanshukhanna"><img src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png" alt="github" width="40"/></a>
 <a href="https://www.linkedin.com/in/deepanshu-khanna-393380b7/"><img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" alt="linkedin" width="40"/></a>
