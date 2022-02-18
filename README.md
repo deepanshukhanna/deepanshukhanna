@@ -7,7 +7,7 @@
 <a href="https://www.youtube.com/channel/UCft3q7T8vQXMtfPF0Icq46Q"><img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="youtube" width="40"/></a>
 ---
 - 🎓 Software Development Engineer 2 at Microsoft. <br>
-- 🔭 I’m currently working with Ciena that works on Network Inventory System as one of its products. <br>
+- 🔭 I’m currently working with Microsoft ODSP Team to innovate cloud architecture. <br>
 - 💬 Discuss with me about anything related to latest Tech <br>
 - ⚡ Loves Programming <br>
 - 📫 How to reach me: <a href="mailto:dkdeepanshu.khanna17@gmail.com">Mail</a>, <a href="https://www.linkedin.com/in/deepanshu-khanna-393380b7/">DM on Linkedin</a>
